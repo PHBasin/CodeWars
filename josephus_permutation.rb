@@ -37,7 +37,7 @@
 # For more info, browse the Josephus Permutation page on wikipedia :
 # http://en.wikipedia.org/wiki/Josephus_problem
 
-def josephus(items,k)
+def josephus(items, k)
   result = []
   counter = -1
   number_deleted = 0
